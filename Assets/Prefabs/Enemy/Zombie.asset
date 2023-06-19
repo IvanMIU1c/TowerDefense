@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f861c9aa5d443314986ca937c87f9694, type: 3}
+  m_Name: Zombie
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 8, y: 8}
+  animations: {fileID: 9100000, guid: c8c93c5b12f25eb418549885ab9d8690, type: 2}
+  moveSpeed: 0.8
+  hp: 5
+  score: 1
+  radius: 0.35
+  damage: 1
+  gold: 2
